@@ -1,16 +1,18 @@
-### Hi there 👋
+### Selam, ben zédyN !
 
-<!--
-**zedyn/zedyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uzun süredir discord botları ile uğraşıyorum, sizlere bildiğim kadarıyla hiçbir ücret talep etmeden discord botları hakkında bilgiler, hazır altyapılar, komutlar paylaşmaktayım.
 
-Here are some ideas to get you started:
+### Benimle iletişime geçmek için:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Discord" src="./icons/discord.png" />](https://discord.gg/HWTXP8BNFM)
+
+
+<br></br>
+
+### İlgilendiğim Kütüphaneler:
+
+<img align="left" width="30px" height="30px" alt="Discord.py" src="./icons/discord.py.png" />
+<img align="left" width="30px" height="30px" alt="Discord.js" src="./icons/discord.js.png" />
+
+
+<br></br>
