@@ -18,3 +18,6 @@ Uzun süredir discord botları ile uğraşıyorum, sizlere bildiğim kadarıyla 
 
 
 <br></br>
+
+### İstatistik:
+<img align="left" alt="zédyN Github İstatistikleri" src="https://github-readme-stats.codestackr.vercel.app/api?username=zedyn&show_icons=true&hide_border=true" />
