@@ -2,6 +2,8 @@
 
 Uzun süredir discord botları ile uğraşıyorum, sizlere bildiğim kadarıyla hiçbir ücret talep etmeden discord botları hakkında bilgiler, hazır altyapılar, komutlar paylaşmaktayım.
 
+- Çoğunlukla discord.py / dpy ( Python ) kullanmaktayım.
+
 ### Benimle iletişime geçmek için:
 
 [<img align="left" width="30px" height="30px" alt="Discord" src="./icons/discord.png" />](https://discord.gg/HWTXP8BNFM)
@@ -12,8 +14,8 @@ Uzun süredir discord botları ile uğraşıyorum, sizlere bildiğim kadarıyla 
 
 ### Kullandığım Kütüphaneler:
 
-<img align="left" width="30px" height="30px" alt="Discord.py" src="./icons/py.png" />
-<img align="left" width="30px" height="30px" alt="Discord.js" src="./icons/js.png" />
+[<img align="left" width="30px" height="30px" alt="Discord.py" src="./icons/py.png" />](https://discordpy.readthedocs.io/en/latest/index.html)
+[<img align="left" width="30px" height="30px" alt="Discord.js" src="./icons/js.png" />](https://discord.js.org/#/)
 
 
 <br></br>
