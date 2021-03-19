@@ -5,11 +5,12 @@ Uzun süredir discord botları ile uğraşıyorum, sizlere bildiğim kadarıyla 
 ### Benimle iletişime geçmek için:
 
 [<img align="left" width="30px" height="30px" alt="Discord" src="./icons/discord.png" />](https://discord.gg/HWTXP8BNFM)
+♔` Herr zédyN#8971
 
 
 <br></br>
 
-### İlgilendiğim Kütüphaneler:
+### Kullandığım Kütüphaneler:
 
 <img align="left" width="30px" height="30px" alt="Discord.py" src="./icons/py.png" />
 <img align="left" width="30px" height="30px" alt="Discord.js" src="./icons/js.png" />
