@@ -6,7 +6,7 @@ Uzun süredir discord botları ile uğraşıyorum, sizlere bildiğim kadarıyla 
 ### Benimle iletişime geçmek için:
 
 [<img align="left" width="30px" height="30px" alt="Discord" src="./icons/discord.png" />](https://discord.gg/HWTXP8BNFM)
-<img align="left" alt="♔` Herr zédyN#8971" />
+| ♔` Herr zédyN#8971
 
 
 <br></br>
