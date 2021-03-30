@@ -10,7 +10,7 @@
 
 ### Bağlantılar:
 
-# Valvetronic Inc.
+#Valvetronic Inc.
 - Discord:
 - Website
 
