@@ -1,12 +1,18 @@
 ### Selam, ben zédyN !
 
-Uzun süredir discord botları ile uğraşıyorum.
+Discord Bot Developer & Designer
+
+### İletişim:
+- E-mail: zedyn@protonmail.com
+- Discord: ♔ zédyN the legit.#8971
+- Steam: https://steamcommunity.com/id/herrzedyn
 
 
-### Benimle iletişime geçmek için:
+### Bağlantılar:
 
-[<img align="left" width="30px" height="30px" alt="Discord" src="./icons/discord.png" />](https://discord.gg/HWTXP8BNFM)
-| zédyN#8971
+Valvetronic Inc.
+- Discord:
+- Website
 
 
 <br></br>
