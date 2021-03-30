@@ -14,14 +14,12 @@ Valvetronic Inc.
 - Discord:
 - Website
 
-
 <br></br>
 
 ### Kullandığım Kütüphaneler:
 
-[<img align="left" width="30px" height="30px" alt="Discord.py" src="./icons/py.png" />](https://discordpy.readthedocs.io/en/latest/index.html)
-[<img align="left" width="30px" height="30px" alt="Discord.js" src="./icons/js.png" />](https://discord.js.org/#/)
-
+[<img align="left" width="30px" height="30px" alt="discord.py" src="./icons/py.png" />](https://discordpy.readthedocs.io/en/latest/index.html)
+[<img align="left" width="30px" height="30px" alt="discord.js" src="./icons/js.png" />](https://discord.js.org/#/)
 
 <br></br>
 
