@@ -3,8 +3,8 @@
 Discord Bot Developer & Designer
 
 ### İletişim:
-- E-mail: zedyn@protonmail.com
 - Discord: ♔ zédyN the legit.#8971
+- E-mail: zedyn@protonmail.com
 - Steam: https://steamcommunity.com/id/herrzedyn
 
 
