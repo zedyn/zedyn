@@ -1,6 +1,6 @@
 ### Selam, ben zédyN !
 
-Discord Bot Developer & Designer
+- Discord Bot Developer & Designer
 
 ### İletişim:
 - Discord: ♔ zédyN the legit.#8971
@@ -10,11 +10,9 @@ Discord Bot Developer & Designer
 
 ### Bağlantılar:
 
-Valvetronic Inc.
+# Valvetronic Inc.
 - Discord:
 - Website
-
-<br></br>
 
 ### Kullandığım Kütüphaneler:
 
