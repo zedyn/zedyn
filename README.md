@@ -19,7 +19,6 @@ Valvetronic Inc.
 ### Kullandığım Kütüphaneler:
 
 [<img align="left" width="30px" height="30px" alt="discord.py" src="./icons/py.png" />](https://discordpy.readthedocs.io/en/latest/index.html)
-[<img align="left" width="30px" height="30px" alt="discord.js" src="./icons/js.png" />](https://discord.js.org/#/)
 
 <br></br>
 
