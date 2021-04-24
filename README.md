@@ -11,8 +11,8 @@
 ### Bağlantılar:
 
 Valvetronic Inc.
-- Discord:
-- Website
+- Discord:  https://valvetronic.xyz/discord
+- Website:  https://valvetronic.xyz
 
 ### Kullandığım Kütüphaneler:
 
