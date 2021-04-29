@@ -3,7 +3,7 @@
 - Discord Bot Developer & Designer
 
 ### İletişim:
-[<img align="left" width="30px" height="30px" alt="discord.py" src="./icons/discord.png" />](https://discord.com/users/559116776257093653)
+[<img align="left" width="30px" height="30px" alt="discord.py" src="./icons/discordlogo.png" />](https://discord.com/users/559116776257093653)
 - Discord: https://discord.com/users/559116776257093653
 - E-mail: zedyn@protonmail.com
 - Steam: https://steamcommunity.com/id/herrzedyn
