@@ -3,7 +3,7 @@
 - Discord Bot Developer & Designer
 
 ### İletişim:
-- Discord: Herr zédyN`♔#8971
+- Discord: https://discord.com/users/559116776257093653
 - E-mail: zedyn@protonmail.com
 - Steam: https://steamcommunity.com/id/herrzedyn
 
