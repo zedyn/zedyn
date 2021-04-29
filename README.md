@@ -3,9 +3,9 @@
 - Discord Bot Developer & Designer
 
 ### İletişim:
-[<img align="left" width="30px" height="30px" alt="Discord" src="./icons/discordlogo.png" />](https://discord.com/users/559116776257093653)
-[<img align="left" width="30px" height="30px" alt="Steam" src="./icons/steam.png" />](https://steamcommunity.com/id/herrzedyn)
-[<img align="left" width="30px" height="30px" alt="Mail" src="./icons/protonmail.png" />](mailto:zedyn@protonmail.com)
+[<img align="left"  alt="Discord" src="./icons/discordlogo.png" />](https://discord.com/users/559116776257093653)
+[<img align="left"  alt="Steam" src="./icons/steam.png" />](https://steamcommunity.com/id/herrzedyn)
+[<img align="left"  alt="Mail" src="./icons/protonmail.png" />](mailto:zedyn@protonmail.com)
 
 ### Bağlantılar:
 
