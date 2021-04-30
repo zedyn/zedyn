@@ -3,10 +3,15 @@
 - Discord Bot Developer & Designer
 
 ### İletişim:
+- [Discord](https://discord.com/users/559116776257093653)
+- [Steam](https://steamcommunity.com/id/herrzedyn)
+- [Mail Gönder](mailto:zedyn@protonmail.com)
 
 ### Projeler:
 
 Valvetronic Inc.
+- [Website](https://valvetronic.xyz)
+- [Discord Sunucusu](https://valvetronic.xyz/discord.html)
 
 ### Kullandığım Kütüphaneler:
 
