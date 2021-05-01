@@ -10,8 +10,8 @@
 ### Projeler:
 
 Valvetronic Inc.
-- [Website](https://valvetronic.xyz)
-- [Discord Sunucusu](https://valvetronic.xyz/discord.html)
+- [Website](https://valvetronic.xyz) ( Yakında )
+- [Discord Sunucusu](https://valvetronic.xyz/discord.html) ( Yakında )
 
 ### Kullandığım Kütüphaneler:
 
