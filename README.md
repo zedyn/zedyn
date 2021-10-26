@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Valvetronic](.)
 
-<h3 align="left">Contact:</h3>
-- 🔗 [Click here](mailto:zedyn@protonmail.com) to send e-mail.
-- 🔗 [Click here](https://discord.com/users/559116776257093653) to view Discord profile.
+<h3 align="left">Contact:</h3> 
+🔗 [Click here](mailto:zedyn@protonmail.com) to send e-mail.
+🔗 [Click here](https://discord.com/users/559116776257093653) to view Discord profile.
 
 
 
