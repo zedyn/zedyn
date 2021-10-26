@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedyn&label=Profile%20views&color=0e75b6&style=flat" alt="zedyn" /> </p>
 
-- 🔭 I’m currently working on [Valvetronic](.) (soon)
+- 🔭 I’m currently working on [Valvetronic](https://https://github.com/zedyn/) (soon)
 - 📫 Contact: [zedyn@protonmail.com](mailto:zedyn@protonmail.com) or [Discord](https://discord.com/users/559116776257093653)
 
 
