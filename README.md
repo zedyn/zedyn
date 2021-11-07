@@ -5,6 +5,11 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+  
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedyn&label=Profile%20views&color=0e75b6&style=flat" alt="zedyn" /> </p>
 <a class="github-button" href="https://github.com/zedyn/zedyn" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star zedyn/zedyn on GitHub">Star</a>
 
@@ -43,9 +48,6 @@
 <h2> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://discord.com/users/'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/3970-discord.png"/></a> 
 <a href = 'mailto:zedyn@protonmail.com'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/6425-email-starlab.png"/></a> 
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 
 
