@@ -6,7 +6,7 @@
 <p align='center'>
 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zedyn&label=Profile%20views&color=0e75b6&style=flat" alt="zedyn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zedyn&label=Profile%20views&color=ffcc00&style=flat" alt="zedyn" /> </p>
 
 
 </p>
