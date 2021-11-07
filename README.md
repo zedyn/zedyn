@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedyn&label=Profile%20views&color=0e75b6&style=flat" alt="zedyn" /> </p>
 
 </p>
-<div size='20px'> Hi! My name is zédyN. Thank you for taking the time to view my GitHub Profile 😊 
+<div size='20px'> Hi! My name is zédyN. Thank you for taking the time to view my GitHub profile. 😊 
 </div>
 
 
@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Discord bot's and some open-source Github project's
+- 🔭 I’m currently working on Discord Bot's and some open-source Github Project's
 
 - 🌱 I’m currently learning Data Science, Data Engineering 
 
@@ -39,7 +39,7 @@
 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://discord.com/users/'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/3970-discord.png"/></a> 
 <a href = 'mailto:zedyn@protonmail.com'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/6425-email-starlab.png"/></a> 
 
