@@ -41,8 +41,8 @@
 
 
 
-<h2> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://discord.com/users/'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/3970-discord.png"/></a> 
+<h2> Contact With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://discord.com/users/903318655872422048'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/3970-discord.png"/></a> 
 <a href = 'mailto:zedyn@protonmail.com'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/6425-email-starlab.png"/></a> 
 
 
