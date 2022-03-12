@@ -14,28 +14,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31zbzlualz4gpxod7apvdbt4ffk4)
-
----
-
-<!--START_SECTION:waka-->
-**Total ![visitor no](https://visitor-badge.glitch.me/badge?page_id=zedyn.zedyn&left_color=black&right_color=black)**
-
-```text
-🌞 Morning    158 commits    ██████████░░░░░░░░░░░░░░░   40.93% 
-🌆 Daytime    145 commits    █████████░░░░░░░░░░░░░░░░   37.56% 
-🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-🌙 Night      81 commits     █████░░░░░░░░░░░░░░░░░░░░   20.98%
-```
-<!--END_SECTION:waka-->
-
-
----
-
 ### Frameworks and Languages
 [![Python](https://img.shields.io/badge/Python-0000FF?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
