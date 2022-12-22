@@ -1,5 +1,5 @@
 ~ who is zédyN
-> just another guy who likes to code.
+> just another guy who likes to code
 
 ~ explain skills
 > next.js and discord.js
