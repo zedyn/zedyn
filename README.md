@@ -4,4 +4,4 @@
 ~ explain skills
 > next.js and discord.js
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/559116776257093653)](https://discord.com/users/559116776257093653)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1096540990162088058)](https://discord.com/users/1096540990162088058)
